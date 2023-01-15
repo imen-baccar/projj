@@ -1,0 +1,31 @@
+#fid{
+    background-image: url(https://scontent.ftun1-2.fna.fbcdn.net/v/t1.15752-9/322382490_717949243220304_4768603358230966400_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=M0dvkZWM3n4AX-RS9pG&_nc_oc=AQk2sZ7uheKD0OH_XdeioR4XyHpypBNwCsCbAOnQg1tkMLuZ3TyS0FukZcLo6f-OQ1s&_nc_ht=scontent.ftun1-2.fna&oh=03_AdRoGLhNF9KHB0kWm3o7aJIIsyNh-Vp4EQobocuxwVpjrA&oe=63DFC818);
+    background-size: cover;
+    /* background-position: ; */
+    /* width: 200vh; */
+    height: 70vh   
+
+}
+#we{
+    color: 
+    #132323;
+    font-size: xx-large; 
+
+}
+#search{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-right: 500px;
+}
+#recherche{
+    width: 750px;
+    height: 50px;
+}
+#icon_search{
+    height: 20px;
+    width: 20px;
+}
+#button{
+    width: 200px;
+}
